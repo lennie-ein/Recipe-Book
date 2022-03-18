@@ -23,7 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
               height: 1320,
             ),
             blur: 8.0,
-            blurColor: Colors.black,
+            blurColor: Colors.black54,
           )
         ],
       ),
